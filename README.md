@@ -15,13 +15,13 @@ A simple movie search web app built with **HTML, CSS, and vanilla JavaScript**, 
 ## Screenshots
 
 ### Home Page
-![Home page](Screenshots/movie_app_result1.png)
+![Home page](movie_app_result1.png)
 
 ### Searching "Harry Potter"
-![Harry Potter search results](Screenshots/movie_app_result2.png)
+![Harry Potter search results](movie_app_result2.png)
 
 ### Searching "Star Wars"
-![Star Wars search results](Screenshots/movie_app_result3.png)
+![Star Wars search results](movie_app_result3.png)
 
 ## Tech Stack
 
